@@ -30,3 +30,10 @@ app.get('/', (req, res) =>
 );
 
 app.listen(PORT, () => console.log(`App listening on port ${PORT}`));
+
+//STEPS FOR DEPLOYMENT
+//PUSH EVERYTHING TO GITHUB REPO
+//heroku login in CMD and go to browser to login
+//heroku create in git bash
+//git push heroku main
+//heroku open to open the app in browser
