@@ -19,11 +19,11 @@
   
   ## Installation 
 
-  You will need to run "npm install inquirer" and "npm install --save-dev jest" for the inquirer and jest packages.
+  You will need to run "npm install express" and "npm install uuid" for the express and uuid packages. Optionally, you can run "npm install nodemon" which will allow you to keep your server open while making file changes.
 
   ## Usage
 
-  To use my applicaton clone my repository to your local machine, run "npm install inquirer" and "npm install --save-dev jest" in the terminal, and then run "node index.js" to be prompted with questions that will generate your team profile.
+  To use my applicaton clone my repository to your local machine, run "npm install express" and "npm install uuid" in the terminal, and run node server.js (or nodemon server if you have nodemon installed) so the app can be hosted locally.
   
   ## Application
  ![localhost_3001_notes](https://user-images.githubusercontent.com/88510725/163471684-69f95a5d-7397-420d-97ee-d2ad0a942bdc.png)
@@ -55,7 +55,7 @@
   If you want to contribute to this project, email me at kaleb1027@gmail.com
 
   ## Tests
-  "npm run test" in the console to run tests for the role classes.
+  N/A
 
   ## Questions
   If you have any questions, you can reach me at kaleb1027@gmail.com or [kaleb1027 on github]("https://github.com/kaleb1027").
